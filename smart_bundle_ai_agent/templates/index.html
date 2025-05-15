@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Bundle AI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Bundle Recommendation</h2>
+        <form id="productForm">
+            <label>Enter Product IDs (comma-separated):</label>
+            <input type="text" id="productInput">
+            <button type="submit">Get Bundle</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <script>
+        document.getElementById("productForm").onsubmit = async function(e) {
+            e.preventDefault();
+            const input = document.getElementById("productInput").value;
+            const product_ids = input.split(',').map(id => id.trim());
+            const response = await fetch("/recommend", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({product_ids})
+            });
+            const data = await response.json();
+            document.getElementById("result").innerText = "Recommended Bundle: " + data.bundle.join(", ");
+        }
+    </script>
+</body>
+</html>
