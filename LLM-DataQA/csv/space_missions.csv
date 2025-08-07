@@ -1,0 +1,51 @@
+Mission Name,Launch Date,Agency,Mission Type,Objective,Status,Budget (Billion USD),Success Rating,Duration (Years),Launch Vehicle,Scientist,Solar Panels,Space Station
+Mission 1,10-11-2024,SpaceX,Satellite,Scientific study of Moon,Partial Failure,5.39,Medium,6.93,GSLV Mk III,Neil Armstrong,No,Tiangong
+Mission 2,13-12-2022,SpaceX,Orbiter,Scientific study of stars,Partial Failure,6.42,Medium,14.25,GSLV Mk III,Stephen Hawking,Yes,Tiangong
+Mission 3,26-11-2017,Roscosmos,Satellite,Scientific study of Moon,Failed,2.49,Low,18.08,Saturn V,Yuri Gagarin,Yes,Mir
+Mission 4,25-12-2018,ESA,Satellite,Scientific study of stars,Partial Failure,5.6,High,8.37,Atlas V,Neil Armstrong,No,ISS
+Mission 5,27-02-2014,ESA,Interstellar Probe,Scientific study of Moon,Failed,9.14,Low,9.23,GSLV Mk III,Stephen Hawking,No,Mir
+Mission 6,28-12-2023,JAXA,Satellite,Scientific study of Moon,Failed,5.15,Medium,15.07,Ariane 5,Kalpana Chawla,No,None
+Mission 7,27-01-2016,Roscosmos,Lunar Lander,Scientific study of solar flares,Partial Failure,0.41,High,8.89,Saturn V,Yuri Gagarin,Yes,None
+Mission 8,05-07-2021,ISRO,Space Telescope,Scientific study of exoplanets,Active,5.14,Medium,19.67,GSLV Mk III,Chris Hadfield,No,Skylab
+Mission 9,11-03-2024,NASA,Mars Rover,Scientific study of Mars,Completed,2.91,Low,4.86,Soyuz,Buzz Aldrin,No,Skylab
+Mission 10,20-01-2023,Roscosmos,Orbiter,Scientific study of Mars,Partial Failure,3.55,Low,10.32,Atlas V,Neil Armstrong,No,Mir
+Mission 11,01-03-2010,CNSA,Space Telescope,Scientific study of Jupiter,Partial Failure,2.83,Medium,19.99,Falcon 9,Yuri Gagarin,No,ISS
+Mission 12,23-05-2013,Roscosmos,Satellite,Scientific study of Mars,Failed,4.12,Medium,6.76,Long March 5,Kalpana Chawla,Yes,Skylab
+Mission 13,05-01-2016,SpaceX,Satellite,Scientific study of solar flares,Completed,5.37,High,5.5,Ariane 5,Yuri Gagarin,Yes,Mir
+Mission 14,05-08-2020,ESA,Orbiter,Scientific study of stars,Completed,3.26,High,15.2,GSLV Mk III,Sunita Williams,Yes,ISS
+Mission 15,26-09-2017,ISRO,Mars Rover,Scientific study of solar flares,Completed,4.93,Medium,13.56,Long March 5,Stephen Hawking,No,Skylab
+Mission 16,12-12-2010,ESA,Lunar Lander,Scientific study of Moon,Partial Failure,5.64,High,16.2,Ariane 5,Kalpana Chawla,Yes,Mir
+Mission 17,26-08-2013,NASA,Lunar Lander,Scientific study of Mars,Active,5.07,Medium,9.5,Atlas V,Rakesh Sharma,No,Mir
+Mission 18,10-12-2018,ISRO,Lunar Lander,Scientific study of Mars,Active,7.21,High,19.46,Soyuz,Neil Armstrong,Yes,Skylab
+Mission 19,11-05-2012,SpaceX,Satellite,Scientific study of Mars,Active,7.06,Medium,4.78,H-IIA,Chris Hadfield,No,Tiangong
+Mission 20,05-04-2015,ISRO,Interstellar Probe,Scientific study of Jupiter,Completed,6.77,Medium,3.53,Falcon 9,Rakesh Sharma,Yes,Mir
+Mission 21,10-03-2023,ESA,Mars Rover,Scientific study of stars,Failed,9.43,High,4.72,Soyuz,Mae Jemison,Yes,None
+Mission 22,07-08-2020,JAXA,Space Telescope,Scientific study of exoplanets,Failed,1.79,Medium,15.68,GSLV Mk III,Buzz Aldrin,Yes,Skylab
+Mission 23,03-07-2023,JAXA,Space Telescope,Scientific study of exoplanets,Completed,3.84,Low,2.22,H-IIA,Chris Hadfield,No,ISS
+Mission 24,22-09-2011,Roscosmos,Lunar Lander,Scientific study of Mars,Active,5.72,High,13.35,GSLV Mk III,Buzz Aldrin,No,Mir
+Mission 25,01-11-2012,JAXA,Space Telescope,Scientific study of Jupiter,Active,3.67,Medium,10.96,Atlas V,Chris Hadfield,No,ISS
+Mission 26,08-01-2011,ISRO,Mars Rover,Scientific study of Moon,Partial Failure,5.82,Medium,11.02,Soyuz,Mae Jemison,No,Mir
+Mission 27,04-12-2022,ESA,Space Telescope,Scientific study of solar flares,Partial Failure,8.55,Medium,12.47,GSLV Mk III,Buzz Aldrin,No,ISS
+Mission 28,28-10-2021,JAXA,Mars Rover,Scientific study of solar flares,Partial Failure,8.21,Low,2.46,Saturn V,Chris Hadfield,No,ISS
+Mission 29,08-03-2010,NASA,Orbiter,Scientific study of exoplanets,Failed,6.41,High,3.58,Soyuz,Neil Armstrong,Yes,Tiangong
+Mission 30,21-08-2013,SpaceX,Orbiter,Scientific study of solar flares,Active,2.61,Low,13.65,GSLV Mk III,Neil Armstrong,Yes,Tiangong
+Mission 31,12-02-2014,CNSA,Space Telescope,Scientific study of stars,Partial Failure,1.16,Medium,18.01,Soyuz,Chris Hadfield,No,Skylab
+Mission 32,17-05-2011,JAXA,Satellite,Scientific study of Jupiter,Partial Failure,0.54,Medium,8.39,GSLV Mk III,Yuri Gagarin,No,Skylab
+Mission 33,04-04-2024,SpaceX,Space Telescope,Scientific study of stars,Active,4.28,Medium,17.22,Soyuz,Mae Jemison,No,Skylab
+Mission 34,03-07-2011,SpaceX,Lunar Lander,Scientific study of exoplanets,Partial Failure,7.29,Low,12.64,GSLV Mk III,Sunita Williams,Yes,ISS
+Mission 35,10-12-2022,ISRO,Orbiter,Scientific study of solar flares,Partial Failure,7.46,Low,0.17,H-IIA,Kalpana Chawla,No,Mir
+Mission 36,21-10-2017,Roscosmos,Satellite,Scientific study of stars,Completed,3.38,Low,1.2,Atlas V,Carl Sagan,Yes,Mir
+Mission 37,13-09-2011,ISRO,Mars Rover,Scientific study of Mars,Failed,0.18,High,13.06,Ariane 5,Rakesh Sharma,No,Tiangong
+Mission 38,06-01-2012,CNSA,Orbiter,Scientific study of stars,Failed,2.81,Medium,1.86,Ariane 5,Yuri Gagarin,No,Mir
+Mission 39,28-01-2011,Roscosmos,Orbiter,Scientific study of stars,Active,8.17,Medium,6.53,Long March 5,Neil Armstrong,Yes,Skylab
+Mission 40,10-07-2020,Roscosmos,Interstellar Probe,Scientific study of Moon,Active,0.87,Medium,14.17,H-IIA,Kalpana Chawla,No,Tiangong
+Mission 41,08-05-2017,CNSA,Orbiter,Scientific study of solar flares,Partial Failure,5.9,Medium,3.52,Falcon 9,Buzz Aldrin,Yes,Mir
+Mission 42,08-04-2023,ESA,Orbiter,Scientific study of exoplanets,Failed,9.84,Medium,14.88,GSLV Mk III,Sunita Williams,No,ISS
+Mission 43,11-09-2014,ESA,Space Telescope,Scientific study of solar flares,Completed,6.91,High,0.12,Falcon 9,Neil Armstrong,No,Skylab
+Mission 44,09-03-2010,SpaceX,Satellite,Scientific study of Jupiter,Failed,6.03,Low,5.75,Atlas V,Yuri Gagarin,Yes,ISS
+Mission 45,28-06-2012,JAXA,Mars Rover,Scientific study of Moon,Partial Failure,7.91,Low,18.09,Falcon 9,Rakesh Sharma,Yes,Mir
+Mission 46,12-02-2013,CNSA,Satellite,Scientific study of Jupiter,Active,8.47,Low,14.61,Long March 5,Buzz Aldrin,Yes,None
+Mission 47,08-03-2015,SpaceX,Satellite,Scientific study of Moon,Active,8.9,Low,2.22,H-IIA,Mae Jemison,Yes,ISS
+Mission 48,23-08-2016,SpaceX,Space Telescope,Scientific study of Jupiter,Completed,1.08,Low,3.31,GSLV Mk III,Stephen Hawking,Yes,Mir
+Mission 49,10-06-2013,ISRO,Satellite,Scientific study of Mars,Active,4.98,High,0.14,Saturn V,Buzz Aldrin,No,ISS
+Mission 50,08-04-2018,JAXA,Lunar Lander,Scientific study of Moon,Partial Failure,7.52,Medium,19.02,Atlas V,Mae Jemison,Yes,Skylab

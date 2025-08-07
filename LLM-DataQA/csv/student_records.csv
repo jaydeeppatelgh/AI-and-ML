@@ -1,0 +1,51 @@
+Student ID,Name,Gender,Age,Department,Year,CGPA,City,Email,Phone,Blood Group,Scholarship
+100,Raj Patel,Male,21,Mechanical,2,8.33,Bhavnagar,raj.patel@university.edu,-9827892145,O-,No
+101,Sneha Sharma,Male,20,Electronics,3,9.94,Ahmedabad,sneha.sharma@university.edu,-9577287747,A-,Yes
+102,Amit Verma,Female,19,AI & ML,1,9.92,Jamnagar,amit.verma@university.edu,-9416830323,A-,No
+103,Pooja Mehta,Male,21,Mechanical,1,8.81,Rajkot,pooja.mehta@university.edu,-9373465738,B+,Yes
+104,Vikram Desai,Female,23,Electronics,3,9.13,Ahmedabad,vikram.desai@university.edu,-9675905153,B-,Yes
+105,Riya Jain,Female,23,Civil,4,9.95,Vadodara,riya.jain@university.edu,-9311870260,B+,Yes
+106,Ankit Rana,Female,24,Electronics,1,8.23,Bhavnagar,ankit.rana@university.edu,-9161735069,B-,Yes
+107,Komal Joshi,Female,24,Electronics,2,8.14,Gandhinagar,komal.joshi@university.edu,-9511461533,B+,Yes
+108,Nikhil Reddy,Male,23,Computer Science,2,7.49,Gandhinagar,nikhil.reddy@university.edu,-9402244239,B+,No
+109,Priya Kumari,Female,19,Electronics,4,6.71,Surat,priya.kumari@university.edu,-9897571390,AB-,No
+110,Karan Shah,Female,22,Computer Science,3,6.82,Jamnagar,karan.shah@university.edu,-9916282039,AB-,Yes
+111,Neha Singh,Female,23,IT,2,7.71,Ahmedabad,neha.singh@university.edu,-9711071437,A+,Yes
+112,Tarun Joshi,Female,19,Civil,2,8.05,Jamnagar,tarun.joshi@university.edu,-9526778373,B+,Yes
+113,Anjali Rao,Female,25,Civil,2,8.43,Gandhinagar,anjali.rao@university.edu,-9106198598,O-,Yes
+114,Deepak Mehra,Female,19,Mechanical,2,9.74,Jamnagar,deepak.mehra@university.edu,-9346658199,A-,No
+115,Mitali Thakur,Female,22,Electronics,2,6.64,Rajkot,mitali.thakur@university.edu,-9785795355,B-,No
+116,Arjun Chauhan,Female,23,IT,3,8.02,Ahmedabad,arjun.chauhan@university.edu,-9582684128,B-,No
+117,Nikita Goyal,Male,24,Civil,4,9.95,Gandhinagar,nikita.goyal@university.edu,-9348319014,O-,No
+118,Raghav Kapoor,Female,25,IT,1,7.01,Ahmedabad,raghav.kapoor@university.edu,-9764549265,A-,No
+119,Swati Yadav,Female,24,IT,4,9.88,Vadodara,swati.yadav@university.edu,-9734918380,B-,No
+120,Harshit Gupta,Female,25,Mechanical,3,7.57,Jamnagar,harshit.gupta@university.edu,-9129065114,A-,Yes
+121,Ishita Bansal,Male,20,Mechanical,3,7.93,Ahmedabad,ishita.bansal@university.edu,-9137946868,B+,Yes
+122,Sameer Khan,Male,20,Mechanical,4,9.59,Surat,sameer.khan@university.edu,-9870031923,O-,Yes
+123,Preeti Desai,Male,21,IT,2,8.63,Surat,preeti.desai@university.edu,-9978322585,O+,No
+124,Nilesh Tiwari,Male,22,Civil,3,9.65,Surat,nilesh.tiwari@university.edu,-9300715371,A+,No
+125,Meera Soni,Male,22,Computer Science,3,9.47,Ahmedabad,meera.soni@university.edu,-9440871100,O+,No
+126,Yash Rawat,Male,21,AI & ML,3,8.72,Bhavnagar,yash.rawat@university.edu,-9179871007,O-,No
+127,Kavya Dixit,Female,21,Electronics,1,8.55,Rajkot,kavya.dixit@university.edu,-9434962190,A+,No
+128,Sahil Bansal,Male,22,AI & ML,1,7.76,Ahmedabad,sahil.bansal@university.edu,-9646160267,O-,No
+129,Lavanya Nair,Male,19,Mechanical,2,7.29,Jamnagar,lavanya.nair@university.edu,-9303365929,O-,No
+130,Aarav Sharma,Female,24,IT,1,9.67,Ahmedabad,aarav.sharma@university.edu,-9358873758,A-,No
+131,Tanvi Patel,Female,23,AI & ML,1,7.52,Ahmedabad,tanvi.patel@university.edu,-9911052491,AB-,No
+132,Jay Mehta,Female,20,IT,4,9.42,Surat,jay.mehta@university.edu,-9672109723,B+,Yes
+133,Divya Joshi,Female,21,AI & ML,1,8.74,Bhavnagar,divya.joshi@university.edu,-9970517372,O+,Yes
+134,Parth Sharma,Female,25,Electronics,1,9.02,Ahmedabad,parth.sharma@university.edu,-9945229946,A+,No
+135,Rekha Das,Female,24,IT,4,8.09,Rajkot,rekha.das@university.edu,-9588201141,B+,Yes
+136,Suraj Pawar,Female,22,Civil,1,7.84,Jamnagar,suraj.pawar@university.edu,-9883089287,O+,No
+137,Khushi Jain,Male,22,Computer Science,2,9.25,Vadodara,khushi.jain@university.edu,-9328995145,A-,Yes
+138,Kunal Roy,Male,22,AI & ML,3,8.57,Jamnagar,kunal.roy@university.edu,-9698232124,AB+,Yes
+139,Manvi Sethi,Male,20,IT,1,7.64,Surat,manvi.sethi@university.edu,-9178344534,AB+,No
+140,Bhavesh Solanki,Female,25,Computer Science,2,9.48,Surat,bhavesh.solanki@university.edu,-9641408911,B-,No
+141,Simran Kaul,Male,25,IT,4,7.65,Bhavnagar,simran.kaul@university.edu,-9141822020,AB+,Yes
+142,Aditya Pillai,Female,25,AI & ML,2,8.52,Vadodara,aditya.pillai@university.edu,-9120083974,O-,No
+143,Trisha Mehta,Male,24,Computer Science,1,9.66,Jamnagar,trisha.mehta@university.edu,-9754468605,O-,Yes
+144,Om Tiwari,Male,23,AI & ML,2,8.37,Bhavnagar,om.tiwari@university.edu,-9729993291,A+,No
+145,Maya Iyer,Male,18,Computer Science,4,9.98,Vadodara,maya.iyer@university.edu,-9956403394,A-,No
+146,Dev Desai,Male,25,Electronics,4,7.97,Surat,dev.desai@university.edu,-9695320031,O+,Yes
+147,Snehal Rane,Female,25,Electronics,2,8.23,Vadodara,snehal.rane@university.edu,-9102782357,B+,Yes
+148,Rahul Bhatt,Male,25,Mechanical,4,6.98,Surat,rahul.bhatt@university.edu,-9906166637,B+,No
+149,Anaya Kapoor,Female,24,Computer Science,2,6.68,Vadodara,anaya.kapoor@university.edu,-9428497171,AB+,No

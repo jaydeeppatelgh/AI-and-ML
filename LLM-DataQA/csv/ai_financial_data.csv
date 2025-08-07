@@ -1,0 +1,9 @@
+Model Name,Company,Investment ($M),Year,Category
+GPT-3.5,OpenAI,500,2023,Transformer
+GPT-4,OpenAI,1000,2024,Transformer
+Claude 2,Anthropic,750,2024,Constitutional AI
+LLaMA 2,Meta,300,2023,Open-Source
+Mistral 7B,Mistral,200,2023,Open-Source
+Gemini Pro,Google,600,2024,Proprietary
+GPT-4 Turbo,OpenAI,1500,2025,Transformer
+Claude 3 Opus,Anthropic,1000,2025,Constitutional AI

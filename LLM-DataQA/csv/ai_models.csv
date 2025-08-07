@@ -1,0 +1,11 @@
+Model Name,Launch Date,Owner,Organization,Parameter Size,Training Data
+GPT-4,14-03-2023,OpenAI,OpenAI,1T+,"Internet, books, code"
+LLaMA 3,18-04-2024,Meta,Meta AI,70B,Public datasets
+Gemini 1.5,08-02-2024,Google,Google DeepMind,1.5T,"Web, books, code"
+Claude 3,04-03-2024,Anthropic,Anthropic,52B,Filtered web data
+Command R+,10-05-2024,Cohere,Cohere,35B,Cohere corpus
+Mistral 7B,25-10-2023,Mistral,Mistral AI,7B,Mixed web data
+Gemma 2B,21-02-2024,Google,Google,2B,Web-scale corpus
+Phi-2,10-12-2023,Microsoft,Microsoft Research,2.7B,Scientific articles
+Yi-34B,06-11-2023,01.AI,01.AI,34B,Multilingual corpus
+DeepSeek Coder,12-04-2024,DeepSeek AI,DeepSeek AI,16B,Code corpus
