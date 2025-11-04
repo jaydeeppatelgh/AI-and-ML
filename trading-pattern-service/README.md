@@ -38,5 +38,13 @@ This package contains a working FastAPI backend for managing pattern components 
 
 ## Test image for working endpoint and docker
 
+<img width="1501" height="899" alt="image" src="https://github.com/user-attachments/assets/3b0ccb0a-f821-4ac0-abfa-8eae829039b4" />
+<img width="1493" height="881" alt="create component" src="https://github.com/user-attachments/assets/6a3c97fd-0393-4883-bdd5-87eb69867f72" />
+<img width="1920" height="1080" alt="docker" src="https://github.com/user-attachments/assets/e4038771-78fb-4544-98a5-56eb0670a431" />
+<img width="1492" height="901" alt="get component" src="https://github.com/user-attachments/assets/a9873170-b15c-4669-8297-07fd7df40bb6" />
+<img width="1500" height="896" alt="history of component" src="https://github.com/user-attachments/assets/13422591-cb5e-46aa-ba6c-36b7d2034a46" />
+
+
+
 
 
