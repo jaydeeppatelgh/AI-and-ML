@@ -35,3 +35,8 @@ This package contains a working FastAPI backend for managing pattern components 
 - **Chat history retention**: stored JSONB in each version for auditing; retained indefinitely in this assignment.
 - **Concurrency**: database transactions are used; unique constraints prevent version collisions.
 - **Error handling**: external transpiler errors are proxied as 502 to the client. Retries/backoff could be added.
+
+## Test image for working endpoint and docker
+
+
+
