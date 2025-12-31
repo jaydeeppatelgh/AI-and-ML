@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "layer": "vertical_plumbing",
+  "supported_intents": {
+    "leak": [
+      "leak",
+      "leaking",
+      "burst pipe",
+      "ceiling dripping"
+    ],
+    "clog": [
+      "clog",
+      "backed up",
+      "backup",
+      "not draining",
+      "sewer backup"
+    ],
+    "water_heater": [
+      "no hot water",
+      "water heater",
+      "pilot light"
+    ],
+    "estimate": [
+      "estimate",
+      "pricing",
+      "quote",
+      "look at something"
+    ]
+  },
+  "urgency_rules": {
+    "high": [
+      "active leak",
+      "leaking right now",
+      "burst pipe",
+      "sewer backup",
+      "no water at all",
+      "emergency",
+      "right now"
+    ],
+    "medium": [
+      "no hot water",
+      "drain clogged",
+      "contained issue"
+    ],
+    "low": [
+      "estimate",
+      "pricing",
+      "minor issue",
+      "preventative"
+    ]
+  },
+  "required_questions": [
+    "problem_description",
+    "urgency_confirmation",
+    "service_city",
+    "caller_phone"
+  ]
+}

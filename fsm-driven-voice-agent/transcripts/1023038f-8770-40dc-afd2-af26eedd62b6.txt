@@ -1,0 +1,16 @@
+Caller: 
+Agent: Thanks for calling. Can you briefly describe what’s going on?
+Caller: 
+Agent: Are you calling about a leak, a clog or backup, a water heater issue, or a general repair or estimate?
+Caller: water leak
+Agent: Is there active water leaking right now?
+Caller: yes
+Agent: May I please have your FULL street address and city? For example: 123 Main Street, Minneapolis
+Caller: 23 main street, minneapolis
+Agent: What's the best phone number to reach you? Please include the area code.
+Caller: 9292929292
+Agent: Perfect. And what is your name, please?
+Caller: john
+Agent: To confirm: 23 Main Street, Minneapolis, 929-292-9292, John. Is that correct?
+Caller: yes
+Agent: Your request has been recorded safely.

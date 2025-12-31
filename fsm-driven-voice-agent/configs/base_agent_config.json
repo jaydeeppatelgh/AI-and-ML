@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "layer": "base_agent",
+  "required_fields": [
+    "intent",
+    "urgency",
+    "service_city",
+    "caller_phone"
+  ],
+  "failure_rules": {
+    "fail_on_ambiguity": true,
+    "fail_on_unconfirmed_fields": true,
+    "fail_on_vague_language": [
+      "maybe",
+      "kind of",
+      "not sure",
+      "earlier"
+    ]
+  },
+  "call_flow": {
+    "require_confirmation_before_success": true
+  }
+}

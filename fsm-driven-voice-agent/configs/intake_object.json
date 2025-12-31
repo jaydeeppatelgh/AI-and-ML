@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "required_fields": [
+    "terminal_state",
+    "intent",
+    "urgency",
+    "service_city",
+    "caller_phone",
+    "safe_to_execute"
+  ],
+  "optional_fields": [
+    "caller_name",
+    "problem_summary"
+  ],
+  "termination_states": [
+    "SUCCESS",
+    "FAIL_CLOSED"
+  ]
+}

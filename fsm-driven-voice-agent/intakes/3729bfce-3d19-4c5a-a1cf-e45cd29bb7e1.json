@@ -1,0 +1,17 @@
+{
+  "call_id": "3729bfce-3d19-4c5a-a1cf-e45cd29bb7e1",
+  "terminal_state": "FAIL_CLOSED",
+  "safe_to_execute": false,
+  "intent": null,
+  "urgency": null,
+  "address": null,
+  "service_city": null,
+  "caller_phone": null,
+  "caller_name": null,
+  "schema_errors": [
+    "Missing required field: intent",
+    "Missing required field: urgency",
+    "Missing required field: service_city",
+    "Missing required field: caller_phone"
+  ]
+}

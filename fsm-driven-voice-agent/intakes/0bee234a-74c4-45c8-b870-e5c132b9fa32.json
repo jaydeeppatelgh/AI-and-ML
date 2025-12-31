@@ -1,0 +1,11 @@
+{
+  "call_id": "0bee234a-74c4-45c8-b870-e5c132b9fa32",
+  "terminal_state": "SUCCESS",
+  "safe_to_execute": true,
+  "intent": "leak",
+  "urgency": "high",
+  "address": "123 Main Street",
+  "service_city": "Minneapolis",
+  "caller_phone": "929-265-6565",
+  "caller_name": "John Smith"
+}

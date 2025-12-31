@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "layer": "business",
+  "business_id": "north_star_plumbing",
+  "business_name": "North Star Plumbing",
+  "services": [
+    "leak repair",
+    "drain unclogging",
+    "water heater repair",
+    "emergency plumbing"
+  ],
+  "service_cities": [
+    "Minneapolis",
+    "St. Paul",
+    "Bloomington",
+    "Richfield",
+    "Edina"
+  ],
+  "hours": {
+    "weekday": "08:00-18:00",
+    "saturday": "09:00-13:00",
+    "sunday": "closed"
+  },
+  "after_hours_policy": "emergency_only",
+  "routing": {
+    "high": "owner_phone",
+    "medium": "office_sms",
+    "low": "office_sms"
+  }
+}
