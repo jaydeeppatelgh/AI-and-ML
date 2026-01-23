@@ -1,11 +1,20 @@
+import os
 import pandas as pd
 from pandasai import SmartDataframe
 from pandasai.llm import OpenAI
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 try:
-    df = pd.read_csv("student_records.csv")
+    df = pd.read_csv("trades.csv")
 
-    llm = OpenAI(api_token="OPEN-AI-API-KEY")
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise ValueError("OPENAI_API_KEY environment variable is not set. Please set it in your .env file.")
+    
+    llm = OpenAI(api_token=api_key)
     sdf = SmartDataframe(df, config={"llm": llm, "verbose": False, "enable_cache": False})
 
     # Start chat loop
