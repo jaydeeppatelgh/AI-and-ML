@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Tests / caches
+.pytest_cache/
+
+# Environment files
+.env
+.env.* 
+
+# Database dumps
+*.sql.gz
+*.dump
